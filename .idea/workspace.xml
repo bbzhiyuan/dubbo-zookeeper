@@ -53,7 +53,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -107,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621939671989</updated>
-      <workItem from="1621939674031" duration="6649000" />
+      <workItem from="1621939674031" duration="7891000" />
     </task>
     <servers />
   </component>
@@ -187,10 +187,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="661" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1621942181961" />
-    <state x="517" y="329" key="SettingsEditor" timestamp="1621946531859">
+    <state x="517" y="329" key="SettingsEditor" timestamp="1621948099377">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="517" y="329" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1621946531859" />
+    <state x="517" y="329" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1621948099377" />
     <state x="209" y="363" width="2376" height="1208" key="ShowDiffWithBranchDialog" timestamp="1621946644339">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
